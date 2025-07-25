@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/vscode-copilot-chat-main"
+		}
+	],
+	"settings": {
+		"workbench.editor.enablePreviewFromCodeNavigation": true
+	}
+}
