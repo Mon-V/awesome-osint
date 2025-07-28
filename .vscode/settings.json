@@ -9,5 +9,8 @@
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true,
-    "workbench.editor.languageDetection": true
+    "workbench.editor.languageDetection": true,
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.formatOnPaste": true,
+    "editor.allowVariableFontsInAccessibilityMode": true
 }
